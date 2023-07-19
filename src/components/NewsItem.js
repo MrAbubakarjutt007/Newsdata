@@ -13,7 +13,7 @@ export class NewsItem extends Component {
             <h5 className="card-title">{title}</h5>
             <p className="card-text">{description}</p>
             <p className="card-text">creater-{!arther ? 'noauther' : arther}- by{date}</p>
-            <a href={newdata} target="_blank" className="btn btn-dark">NEWS PAGE</a>
+            <a href={newdata} target="_blank" className="btn btn-dark">News Update</a>
           </div>
         </div>
       </div>
