@@ -1,2 +1,2 @@
 # Newsdata
-my react project
+MY NEWS PROJECT WITH THE HELP OF CLASS BASE COMPONENT
